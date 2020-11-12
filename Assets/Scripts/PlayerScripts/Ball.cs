@@ -6,7 +6,5 @@ public class Ball : MonoBehaviour {
 
     public float exitSpeed; 
 
-    private void Start() {
 
-    }
 }
